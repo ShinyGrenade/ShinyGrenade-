@@ -107,7 +107,7 @@
 <div class="container">
 	<img class="picture" src="Chick.jpg" style="width:100%; height:700px;">
 	<div class="textblock">
-	<h3>“The Readon chickens cannot fly they don't have faith in their wings”</h3>
+	<h3>“The reason chickens cannot fly they don't have faith in their wings”</h3>
 	</div>
 </div>
 
@@ -119,7 +119,7 @@
   	<p style="text-align: center; display: inline;">Multiplier: </p>
   	<spanny style="display:inline; " id="multiplier">1</spanny>	
   </div>
-  	<img id="Chicken.jpg" src="Chicke.jpg" style="width:150px;" onclick="zoomy()">
+  	<img id="Chick.jpg" src="Chick.jpg" style="width:150px;" onclick="zoomy()">
   <div style="text-align: center;">	
   	<button onclick="upgrade()">Upgrade<br>[25]</button>
   </div>
