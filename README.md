@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	<h3>Make Chickens: <span id="money">0</span>  MPS: <span id="moneyPerSecond">0</span><br /> <img src=https://sdl-stickershop.line.naver.jp/products/0/0/1/1082755/LINEStorePC/main.png?__=20161019 onclick="moneyClick()">Make Chickens</h3>
+	<h3>Make Chickens: <span id="money">0</span>  MPS: <span id="moneyPerSecond">0</span><br /> <img src=https://www.google.com/search?q=funny+chicken.png&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAl5eTzeffAhXGZt4KHdeQAdEQ_AUIDigB&biw=1163&bih=563#imgdii=9o1AWejv0HyPRM:&imgrc=WxPgfqIjKacx6M: onclick="moneyClick()">Make Chickens</h3>
   </head>
   <body>
 	<h3> Chicken Earnings</h3>
