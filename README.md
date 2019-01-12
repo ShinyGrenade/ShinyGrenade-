@@ -105,7 +105,7 @@
 </ul>
 
 <div class="container">
-	<img class="picture" src="Chick.jpg" style="width:100%; height:700px;">
+	<img class="picture" src="https://sdl-stickershop.line.naver.jp/products/0/0/1/1082755/LINEStorePC/main.png?__=20161019" style="width:100%; height:700px;">
 	<div class="textblock">
 	<h3>“The reason chickens cannot fly they don't have faith in their wings”</h3>
 	</div>
@@ -119,7 +119,7 @@
   	<p style="text-align: center; display: inline;">Multiplier: </p>
   	<spanny style="display:inline; " id="multiplier">1</spanny>	
   </div>
-  	<img id="Chick.jpg" src="Chick.jpg" style="width:150px;" onclick="zoomy()">
+  	<img id="https://sdl-stickershop.line.naver.jp/products/0/0/1/1082755/LINEStorePC/main.png?__=20161019" src="https://sdl-stickershop.line.naver.jp/products/0/0/1/1082755/LINEStorePC/main.png?__=20161019" style="width:150px;" onclick="zoomy()">
   <div style="text-align: center;">	
   	<button onclick="upgrade()">Upgrade<br>[25]</button>
   </div>
@@ -142,7 +142,7 @@ function suprise() {
 	if (chicken_count.innerText.slice(0, -6) > 2000) {
 		var video = document.createElement('video');
 
-		video.src = 'cockatoo_yelling_xD.mp4';
+		video.src = '';
 
 		video.autoplay = true;
 
@@ -228,16 +228,19 @@ function upgrade() {
 
 
 
-</script>
+
 <embed src="Chi.mp3" loop="true" autostart="true" hidden="true">
-<pre>	
+<pre>
+
+
+</script>
 
 
 
 
 
 </pre>
-<footer>Copyright: Rehaan Copyright: Funny Chicken sound: J.geco-chicken song\0,k </footer>
+<footer>Copyright: Rehaan Copyright: Funny Chicken sound: J.geco-chicken song </footer>
 
 
 </body></html>
