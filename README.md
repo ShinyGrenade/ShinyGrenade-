@@ -75,7 +75,7 @@
 
 		}
 
-		#egg {
+		#chicken {
 			position:relative;
 			display:block;
 			left: 50%;
@@ -105,9 +105,9 @@
 </ul>
 
 <div class="container">
-	<img class="picture" src="Chicken.jpg" style="width:100%; height:700px;">
+	<img class="picture" src="Chick.jpg" style="width:100%; height:700px;">
 	<div class="textblock">
-	<h3>“The reason birds can fly and we can't is simply because they have perfect faith, for to have faith is to have wings.”</h3>
+	<h3>“The Readon chickens cannot fly they don't have faith in their wings”</h3>
 	</div>
 </div>
 
