@@ -73,6 +73,6 @@ function clicks(){
 
 window.setInterval(clicks, 1);
 
-<p>The reason chickens cannot fly hish because they don't have faith in their wings
+<p>The reason chickens cannot fly hish because they don't have faith in their wings.</p>
 
 </script>
